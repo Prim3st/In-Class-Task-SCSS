@@ -1,0 +1,24 @@
+{
+  "name": "in-class-task-scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass src/scss -o dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prim3st/In-Class-Task-SCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prim3st/In-Class-Task-SCSS/issues"
+  },
+  "homepage": "https://github.com/Prim3st/In-Class-Task-SCSS#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.85.0"
+  }
+}
